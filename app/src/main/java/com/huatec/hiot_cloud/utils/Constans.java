@@ -14,13 +14,13 @@ public class Constans {
     /**
      *主页viewpager的设备fragment选择序号
      */
-    public static final int MAIN_VIEWPAGER_INDEX_EQUIPMENT = 0;
+    public static final int MAIN_VIEWPAGER_INDEX_EQUIPMENT = 1;
     /**
      *主页viewpager的场景fragment选择序号
      */
-    public static final int MAIN_VIEWPAGER_INDEX_SCENE = 0;
+    public static final int MAIN_VIEWPAGER_INDEX_SCENE = 2;
     /**
      *主页viewpager的我的fragment选择序号
      */
-    public static final int MAIN_VIEWPAGER_INDEX_MINE = 0;
+    public static final int MAIN_VIEWPAGER_INDEX_MINE = 3;
 }
