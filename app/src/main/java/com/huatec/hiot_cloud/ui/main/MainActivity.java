@@ -36,10 +36,10 @@ public class MainActivity extends BaseActivity {
                     case R.id.rb_equipment:
                         vpMain.setCurrentItem(Constans.MAIN_VIEWPAGER_INDEX_EQUIPMENT);
                         break;
-                    case R.id.rb_mine:
+                    case R.id.rb_scene:
                         vpMain.setCurrentItem(Constans.MAIN_VIEWPAGER_INDEX_SCENE);
                         break;
-                    case R.id.rb_scene:
+                    case R.id.rb_mine:
                         vpMain.setCurrentItem(Constans.MAIN_VIEWPAGER_INDEX_MINE);
                         break;
                 default:
